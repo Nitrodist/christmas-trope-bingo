@@ -15,3 +15,4 @@ We'll start by following the Mozilla PWA guide and tutorial located here: https:
   - [ ] Test on Android
   - [ ] Test on Web
   - [ ] Test on iOS
+- [ ] Ask AI / Reddit what PWA enabled js framework should I use
