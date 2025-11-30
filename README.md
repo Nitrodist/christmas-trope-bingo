@@ -10,9 +10,12 @@ We'll start by following the Mozilla PWA guide and tutorial located here: https:
 
 - [ ] Logo and stuff
   - [ ] Seems there is a 192px version needed for the icons?
-  - [ ] generate through krita + AI
+  - [x] generate through krita + AI
+    - generated 512.png
+    - used "christmas and people watching tv with paper in their hands" as the prompt
 - [ ] Add an 'Install' button to the website to install the PWA
   - [ ] Test on Android
   - [ ] Test on Web
   - [ ] Test on iOS
-- [ ] Ask AI / Reddit what PWA enabled js framework should I use
+- [x] Ask AI / Reddit what PWA enabled js framework should I use
+  - SVELTE or Next.js / react, I guess I'll try svelte
